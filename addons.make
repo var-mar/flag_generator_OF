@@ -1,0 +1,3 @@
+ofxSvg
+ofxDatGui
+ofxJSON

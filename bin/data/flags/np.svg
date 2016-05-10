@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="726"
+   height="885"
+   viewBox="-17.582 -4.664 71.571 87.246"
+   id="svg3403"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Flag of Nepal.svg">
+  <metadata
+     id="metadata3450">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3448" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview3446"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="218.04615"
+     inkscape:cy="519.30736"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3403" />
+  <title
+     id="title3405">Flag of Nepal</title>
+  <desc
+     id="desc3407">Coding according to the official construction in &quot;Constitution of the Kingdom of Nepal, Article 5, Shedule 1&quot;, adopted in November 1990</desc>
+  <!-- 2*TN= (17955-7335*Sqrt(2))/1468 -->
+  <use
+     xlink:href="#b"
+     id="use3409"
+     stroke-width="5.1646754223"
+     stroke="#003893"
+     style="stroke-width:5.16466748;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.96" />
+  <!-- F,G,C,A,B,D -->
+  <!-- Fy=Gy = 80-30*Sqrt(2) -->
+  <path
+     id="b"
+     d="M -15,37.5735931288 h 60 L -15,0 v 80 h 60 L -15,20 z"
+     fill="#DC143C" />
+  <g
+     transform="matrix(0.09858305,0,0,0.09858305,-15.848852,-4.2042894)"
+     id="g4282"
+     style="fill:#ffffff">
+    <path
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0"
+       d="m 160.767,402.077 c 66.948,0 121.22,-54.271 121.22,-121.221 -10.615,27.01 -29.863,49.493 -54.438,64.171 l -10.372,-7.761 20.427,-15.283 -24.713,-6.302 c -0.001,-0.003 -0.002,-0.006 -0.003,-0.009 l 13.018,-21.929 -25.25,3.636 0,0 0,0 0,0 3.636,-25.25 -21.93,13.018 c -0.003,-10e-4 -0.006,-0.002 -0.009,-0.004 l -6.302,-24.712 -15.283,20.426 -15.284,-20.426 -6.301,24.712 c -0.003,0.001 -0.006,0.002 -0.009,0.003 l -21.931,-13.017 3.637,25.25 0,0 -25.25,-3.636 13.019,21.93 c -0.001,0.003 -0.002,0.006 -0.004,0.009 l -24.712,6.302 20.426,15.283 -10.378,7.766 c -23.913,-14.26 -43.46,-36.258 -54.433,-64.176 -0.002,66.948 54.271,121.22 121.219,121.22 z"
+       id="path4284" />
+    <polygon
+       style="fill:#ffffff"
+       points="102.358,580.552 102.356,580.554 102.357,580.553 47.97,573.841 80.973,617.58 80.971,617.588 30.52,638.964 80.971,660.342 80.973,660.348 47.97,704.088 102.356,697.374 102.357,697.374 95.644,751.76 139.382,718.758 139.389,718.76 160.767,769.211 182.143,718.76 182.151,718.758 225.89,751.76 219.177,697.374 219.177,697.374 273.564,704.088 240.56,660.349 240.563,660.341 291.013,638.964 240.563,617.588 240.56,617.579 273.564,573.841 219.177,580.553 219.178,580.554 219.176,580.552 219.177,580.553 225.89,526.168 182.151,559.171 182.143,559.169 160.767,508.718 139.389,559.169 139.382,559.171 95.644,526.168 102.357,580.553 "
+       id="polygon4286" />
+  </g>
+</svg>
