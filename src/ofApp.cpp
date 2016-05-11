@@ -4,7 +4,7 @@
 void ofApp::setup(){
 	mainGui = new ofxDatGui(ofxDatGuiAnchor::TOP_RIGHT);
 	setupGui();
-	myFlag = new flag(2, mainGui);
+	myFlag = new flag(3, mainGui);
 	myFlag->setup();
 	svgCanvas.allocate(FLAG_WIDTH, FLAG_HEIGHT, GL_RGBA);
 }
@@ -24,7 +24,15 @@ void ofApp::draw(){
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
-
+	if (ofStringTimesInString(lastHittedElement, "LY") > 0) {
+		int numLayer = ofToInt(ofSplitString(lastHittedElement, "-")[1]);
+		ofPoint pos = myFlag->getLayers()[numLayer]->getCenter();
+		if (key == OF_KEY_UP) pos.y--;
+		else if (key == OF_KEY_DOWN) pos.y++;
+		else if (key == OF_KEY_LEFT) pos.x--;
+		else if (key == OF_KEY_RIGHT) pos.x++;
+		myFlag->getLayers()[numLayer]->setCenter(pos);
+	}
 }
 
 //--------------------------------------------------------------
@@ -52,6 +60,7 @@ void ofApp::mouseReleased(int x, int y, int button){
 	vector<ofColor> bgColors = myFlag->getBackground()->getColors();
 	ofPixels px;
 	ofxDatGuiColorPicker* picker;
+	ofxDatGui2dPad* pad;
 	svgCanvas.readToPixels(px);
 	for (int i = 0; i < bgColors.size(); i++) {
 		picker = mainGui->getColorPicker("BG-" + ofToString(i));
@@ -145,7 +154,7 @@ void ofApp::saveFlag() {
 
 void ofApp::setCountriesList() {
 	ofDirectory dir;
-	dir.listDir(SVG_DIR);
+	dir.listDir(MOTIF_DIR);
 	countriesGui = new ofxDatGuiScrollView("countries");
 	countriesGui->setHeight(ofGetHeight());
 	countriesGui->setWidth(70);

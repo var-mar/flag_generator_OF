@@ -21,9 +21,9 @@ void flagLayer::setupGui(ofxDatGui* gui) {
 	scaleSlider->onSliderEvent(this, &flagLayer::onSliderEvent);
 	angleSlider = optionsFolder->addSlider("ANGLE", 0, 360, DEFAULT_ANGLE);
 	angleSlider->onSliderEvent(this, &flagLayer::onSliderEvent);
-	heightSlider = optionsFolder->addSlider("HEIGHT", 0, 1000, DEFAULT_HEIGHT);
+	heightSlider = optionsFolder->addSlider("HEIGHT", -200, 1000, DEFAULT_HEIGHT);
 	heightSlider->onSliderEvent(this, &flagLayer::onSliderEvent);
-	positionPad = optionsFolder->add2dPad("POSITION");
+	positionPad = optionsFolder->add2dPad((index != -1 ? "LY-" + ofToString(index) + "-" : "BG-") + "POSITION");
 	positionPad->setBounds(ofRectangle(-FLAG_WIDTH, -FLAG_HEIGHT, 3 * FLAG_WIDTH, 3 * FLAG_HEIGHT));
 	positionPad->on2dPadEvent(this, &flagLayer::on2dPadEvent);
 	positionPad->setPoint(ofPoint(DEFAULT_CENTER_X, DEFAULT_CENTER_Y));
@@ -66,8 +66,13 @@ void flagLayer::drawPrimitives() {
 		ofDrawTriangle(p1.x, p1.y, p2.x, p2.y, p3.x, p3.y);
 		if (strokeWeight > 0) {
 			ofSetColor(colors[0]);
+			v1 = ofPoint(0, (float)(1-(float)strokeWeight/500));
+			angle = (float)TWO_PI / 3; //120
+			v2 = ofPoint(v1.x*cos(angle) - v1.y*sin(angle), v1.x*sin(angle) + v1.y*cos(angle));
+			angle = (float)(TWO_PI / 3) * 2;
+			v3 = ofPoint(v1.x*cos(angle) - v1.y*sin(angle), v1.x*sin(angle) + v1.y*cos(angle));
 			p1 = v1; p2 = v2; p3 = v3;
-			p1 *= scale + height - strokeWeight; p2 *= scale - strokeWeight; p3 *= scale - strokeWeight;
+			p1 *= scale + height; p2 *= scale; p3 *= scale;
 			p1 += center; p2 += center; p3 += center;
 			ofDrawTriangle(p1.x, p1.y, p2.x, p2.y, p3.x, p3.y);
 		}

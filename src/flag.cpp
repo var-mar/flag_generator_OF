@@ -4,15 +4,20 @@ flag::flag(int _numLayers, ofxDatGui* _gui) {
 	gui = _gui;
 	canvas.allocate(FLAG_WIDTH, FLAG_HEIGHT, GL_RGB);
 	background = new flagBackground();
-	layers.push_back(new flagLayer());
-	layers.push_back(new flagLayer());
-	//layers.assign(_numLayers, new flagLayer());
+	for (int i = 0; i < _numLayers;i++)
+		layers.push_back(new flagLayer());
+	setupGui();
 }
 
 void flag::setup() {
 	background->setup(gui);
 	for (int i = 0; i < layers.size(); i++)
 		layers[i]->setup(gui,i);
+}
+
+void flag::setupGui() {
+	ofxDatGuiButton* motifButton = gui->addToggle("SHOW MOTIF", true);
+	motifButton->onButtonEvent(this, &flag::onButtonEvent);
 }
 
 void flag::update() {
@@ -24,6 +29,7 @@ void flag::draw() {
 		background->draw();
 		for (int i = 0; i < layers.size(); i++)
 			layers[i]->draw();
+		if(drawMotif)motif.draw();
 	canvas.end();
 	canvas.draw(0, 0);
 	for (int i = 0; i < layers.size(); i++)
@@ -39,8 +45,13 @@ void flag::resetFlag() {
 	}
 }
 
+void flag::onButtonEvent(ofxDatGuiButtonEvent e){
+	drawMotif = e.enabled;
+}
+
 void flag::setCountry(string _country) {
 	country = _country;
+	motif.load(MOTIF_DIR + _country + ".svg");
 }
 
 flagBackground* flag::getBackground() {

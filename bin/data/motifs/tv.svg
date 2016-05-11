@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2498"
+   height="480"
+   width="640"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="tv.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview34"
+     showgrid="false"
+     inkscape:zoom="0.49166667"
+     inkscape:cx="320"
+     inkscape:cy="240"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g3907" />
+  <metadata
+     id="metadata4144">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2500">
+    <clipPath
+       id="clipPath5023"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         id="rect5025"
+         fill-opacity="0.67"
+         height="480"
+         width="640"
+         y="0"
+         x="0" />
+    </clipPath>
+  </defs>
+  <g
+     id="flag"
+     clip-path="url(#clipPath5023)">
+    <g
+       id="g3907"
+       transform="scale(1.6543)">
+      <rect
+         id="rect1310"
+         fill-rule="evenodd"
+         height="118.84"
+         width="239.29"
+         y="5.5043e-7"
+         x=".0099678"
+         fill="#fff" />
+      <path
+         id="path549"
+         d="m0.0099681 0.00033452-0.0099681 8.9195 57.103 29.341 21.485 0.622-78.578-38.883z"
+         fill="#c00" />
+      <path
+         id="path552"
+         fill="#c00"
+         d="m102.92 0.00033452v46.163h-102.91v26.379h102.91v46.163h31.666v-46.163h102.91v-26.379h-102.91v-46.163h-31.666z" />
+      <path
+         id="path555"
+         d="m145.96 37.788 19.05-0.153 74-37.371-19.64 0.32017-73.41 37.204z"
+         fill="#c00" />
+      <path
+         id="path701"
+         d="m182.91 81.28-19.8-0.15376 74.638 37.162-0.49099-8.502-54.346-28.506zm-164.35 37.63 69.984-36.739-18.381 0.121-70.151 36.568"
+         fill="#c00" />
+    </g>
+    <g
+       id="g5553"
+       fill-rule="evenodd"
+       transform="matrix(1.5189 0 0 1.5189 -136.22 80.582)"
+       stroke-width="1pt"
+       fill="#fff40d">
+      <polygon
+         id="polygon136"
+         transform="matrix(.25628 0 0 .24119 337.93 -50.489)"
+         points="555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9" />
+      <polygon
+         id="polygon3314"
+         transform="matrix(.25628 0 0 .24119 292.37 79.065)"
+         points="555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9" />
+      <polygon
+         id="polygon3315"
+         transform="matrix(.25628 0 0 .24119 337.93 49.738)"
+         points="555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9" />
+      <polygon
+         id="polygon3317"
+         transform="matrix(.25628 0 0 .24119 142.03 143.7)"
+         points="555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9" />
+      <polygon
+         id="polygon3319"
+         transform="matrix(-.25628 0 0 -.24119 468.01 249.77)"
+         points="555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9" />
+      <polygon
+         id="polygon3320"
+         transform="matrix(-.25628 0 0 -.24119 521.54 175.74)"
+         points="555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9" />
+      <polygon
+         id="polygon3321"
+         transform="matrix(-.25628 0 0 -.24119 566.53 160.36)"
+         points="555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9" />
+      <polygon
+         id="polygon3322"
+         transform="matrix(-.25628 0 0 -.24119 521.54 288.49)"
+         points="555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9" />
+      <polygon
+         id="polygon3323"
+         transform="matrix(-.25628 0 0 -.24119 468.01 301.59)"
+         points="555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9" />
+    </g>
+  </g>
+</svg>

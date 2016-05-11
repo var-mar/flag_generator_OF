@@ -95,10 +95,13 @@
       <PreprocessorDefinitions>%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
       <WarningLevel>Level3</WarningLevel>
-      <AdditionalIncludeDirectories>..\..\..\addons\ofxSvg\src;..\..\..\addons\ofxSvg\libs\svgTiny\src;..\..\..\addons\ofxJSON\src;..\..\..\addons\ofxJSON\libs\jsoncpp\include;..\..\..\addons\ofxJSON\libs\jsoncpp\include\json;C:\OF_v0.9.3\addons\ofxDatGui\src;C:\OF_v0.9.3\addons\ofxDatGui\src\components;C:\OF_v0.9.3\addons\ofxDatGui\src\core;C:\OF_v0.9.3\addons\ofxDatGui\src\libs;C:\OF_v0.9.3\addons\ofxDatGui\src\libs\ofxSmartFont;C:\OF_v0.9.3\addons\ofxDatGui\src\themes;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxSvg\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxSvg\libs\svgTiny\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\components;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\core;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\libs;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\libs\ofxSmartFont;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\themes;
-C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\src;
-C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\libs\jsoncpp\include;
-C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\libs\jsoncpp\include\json;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\..\..\addons\ofxSvg\src;..\..\..\addons\ofxSvg\libs\svgTiny\src;..\..\..\addons\ofxJSON\src;..\..\..\addons\ofxJSON\libs\jsoncpp\include;..\..\..\addons\ofxJSON\libs\jsoncpp\include\json;C:\OF_v0.9.3\addons\ofxDatGui\src;C:\OF_v0.9.3\addons\ofxDatGui\src\components;C:\OF_v0.9.3\addons\ofxDatGui\src\core;C:\OF_v0.9.3\addons\ofxDatGui\src\libs;C:\OF_v0.9.3\addons\ofxDatGui\src\libs\ofxSmartFont;C:\OF_v0.9.3\addons\ofxDatGui\src\themes;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxSvg\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxSvg\libs\svgTiny\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\libs\jsoncpp\include;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\libs\jsoncpp\include\json;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\components;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\core;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\libs;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\libs\ofxSmartFont;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\themes;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <CompileAs>CompileAsCpp</CompileAs>
     </ClCompile>
     <Link>
@@ -119,10 +122,13 @@ C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\libs\jsoncpp\includ
       <WarningLevel>Level3</WarningLevel>
       <CompileAs>CompileAsCpp</CompileAs>
       <MultiProcessorCompilation>true</MultiProcessorCompilation>
-      <AdditionalIncludeDirectories>C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxSvg\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxSvg\libs\svgTiny\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\components;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\core;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\libs;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\libs\ofxSmartFont;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\themes;
-C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\src;
-C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\libs\jsoncpp\include;
-C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\libs\jsoncpp\include\json;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\components;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\core;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\libs;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\libs\ofxSmartFont;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\themes;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
@@ -139,10 +145,13 @@ C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\libs\jsoncpp\includ
       <PreprocessorDefinitions>%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
       <WarningLevel>Level3</WarningLevel>
-      <AdditionalIncludeDirectories>..\..\..\addons\ofxSvg\src;..\..\..\addons\ofxSvg\libs\svgTiny\src;..\..\..\addons\ofxJSON\src;..\..\..\addons\ofxJSON\libs\jsoncpp\include;..\..\..\addons\ofxJSON\libs\jsoncpp\include\json;C:\OF_v0.9.3\addons\ofxDatGui\src;C:\OF_v0.9.3\addons\ofxDatGui\src\components;C:\OF_v0.9.3\addons\ofxDatGui\src\core;C:\OF_v0.9.3\addons\ofxDatGui\src\libs;C:\OF_v0.9.3\addons\ofxDatGui\src\libs\ofxSmartFont;C:\OF_v0.9.3\addons\ofxDatGui\src\themes;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxSvg\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxSvg\libs\svgTiny\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\components;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\core;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\libs;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\libs\ofxSmartFont;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\themes;
-C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\src;
-C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\libs\jsoncpp\include;
-C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\libs\jsoncpp\include\json;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\..\..\addons\ofxSvg\src;..\..\..\addons\ofxSvg\libs\svgTiny\src;..\..\..\addons\ofxJSON\src;..\..\..\addons\ofxJSON\libs\jsoncpp\include;..\..\..\addons\ofxJSON\libs\jsoncpp\include\json;C:\OF_v0.9.3\addons\ofxDatGui\src;C:\OF_v0.9.3\addons\ofxDatGui\src\components;C:\OF_v0.9.3\addons\ofxDatGui\src\core;C:\OF_v0.9.3\addons\ofxDatGui\src\libs;C:\OF_v0.9.3\addons\ofxDatGui\src\libs\ofxSmartFont;C:\OF_v0.9.3\addons\ofxDatGui\src\themes;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxSvg\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxSvg\libs\svgTiny\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\libs\jsoncpp\include;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\libs\jsoncpp\include\json;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\components;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\core;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\libs;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\libs\ofxSmartFont;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\themes;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <CompileAs>CompileAsCpp</CompileAs>
       <MultiProcessorCompilation>true</MultiProcessorCompilation>
     </ClCompile>
@@ -164,10 +173,13 @@ C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\libs\jsoncpp\includ
       <PreprocessorDefinitions>%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
       <WarningLevel>Level3</WarningLevel>
-      <AdditionalIncludeDirectories>..\..\..\addons\ofxSvg\src;..\..\..\addons\ofxSvg\libs\svgTiny\src;..\..\..\addons\ofxJSON\src;..\..\..\addons\ofxJSON\libs\jsoncpp\include;..\..\..\addons\ofxJSON\libs\jsoncpp\include\json;C:\OF_v0.9.3\addons\ofxDatGui\src;C:\OF_v0.9.3\addons\ofxDatGui\src\components;C:\OF_v0.9.3\addons\ofxDatGui\src\core;C:\OF_v0.9.3\addons\ofxDatGui\src\libs;C:\OF_v0.9.3\addons\ofxDatGui\src\libs\ofxSmartFont;C:\OF_v0.9.3\addons\ofxDatGui\src\themes;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxSvg\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxSvg\libs\svgTiny\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\components;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\core;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\libs;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\libs\ofxSmartFont;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\themes;
-C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\src;
-C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\libs\jsoncpp\include;
-C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\libs\jsoncpp\include\json;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\..\..\addons\ofxSvg\src;..\..\..\addons\ofxSvg\libs\svgTiny\src;..\..\..\addons\ofxJSON\src;..\..\..\addons\ofxJSON\libs\jsoncpp\include;..\..\..\addons\ofxJSON\libs\jsoncpp\include\json;C:\OF_v0.9.3\addons\ofxDatGui\src;C:\OF_v0.9.3\addons\ofxDatGui\src\components;C:\OF_v0.9.3\addons\ofxDatGui\src\core;C:\OF_v0.9.3\addons\ofxDatGui\src\libs;C:\OF_v0.9.3\addons\ofxDatGui\src\libs\ofxSmartFont;C:\OF_v0.9.3\addons\ofxDatGui\src\themes;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxSvg\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxSvg\libs\svgTiny\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\src;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\libs\jsoncpp\include;C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxJSON\libs\jsoncpp\include\json;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\components;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\core;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\libs;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\libs\ofxSmartFont;
+C:\Users\admin\Documents\of_v0.9.3_vs_release\addons\ofxDatGui\src\themes;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <CompileAs>CompileAsCpp</CompileAs>
     </ClCompile>
     <Link>

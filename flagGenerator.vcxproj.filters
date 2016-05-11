@@ -34,15 +34,6 @@
     <ClCompile Include="..\..\..\addons\ofxSvg\libs\svgTiny\src\svgtiny_list.cpp">
       <Filter>addons\ofxSvg\libs\svgTiny\src</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\addons\ofxDatGui\src\ofxDatGui.cpp">
-      <Filter>addons\ofxDatGui\src</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\addons\ofxDatGui\src\core\ofxDatGuiComponent.cpp">
-      <Filter>addons\ofxDatGui\src\core</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\addons\ofxDatGui\src\libs\ofxSmartFont\ofxSmartFont.cpp">
-      <Filter>addons\ofxDatGui\src\libs\ofxSmartFont</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\..\addons\ofxJSON\src\ofxJSONElement.cpp">
       <Filter>addons\ofxJSON\src</Filter>
     </ClCompile>
@@ -54,6 +45,15 @@
     </ClCompile>
     <ClCompile Include="src\flag.cpp">
       <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxDatGui\src\ofxDatGui.cpp">
+      <Filter>addons\ofxDatGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxDatGui\src\core\ofxDatGuiComponent.cpp">
+      <Filter>addons\ofxDatGui\src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxDatGui\src\libs\ofxSmartFont\ofxSmartFont.cpp">
+      <Filter>addons\ofxDatGui\src\libs\ofxSmartFont</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -78,27 +78,6 @@
     <Filter Include="addons\ofxSvg\libs\svgTiny\src">
       <UniqueIdentifier>{bf839e1e-5760-4888-89cc-197285d1bc78}</UniqueIdentifier>
     </Filter>
-    <Filter Include="addons\ofxDatGui">
-      <UniqueIdentifier>{962a6eb4-e46f-4f1b-8291-fb17e633621a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxDatGui\src">
-      <UniqueIdentifier>{32d30595-a42b-42e7-8901-8c80bc31dc15}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxDatGui\src\components">
-      <UniqueIdentifier>{18c6dd81-ab1b-4e56-a4f7-8d044ba5ccfc}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxDatGui\src\core">
-      <UniqueIdentifier>{f1022d95-5b1a-447d-83f0-19756e97b978}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxDatGui\src\libs">
-      <UniqueIdentifier>{fd21b6c2-809c-4992-a3a5-4d88b0d86f0c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxDatGui\src\libs\ofxSmartFont">
-      <UniqueIdentifier>{0c306441-c759-4690-9898-f1d2bf8af97f}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxDatGui\src\themes">
-      <UniqueIdentifier>{711d5c65-5517-49e9-af04-b56fd31801d9}</UniqueIdentifier>
-    </Filter>
     <Filter Include="addons\ofxJSON">
       <UniqueIdentifier>{57041c0a-1a72-4b52-b1da-0640b9328653}</UniqueIdentifier>
     </Filter>
@@ -119,6 +98,27 @@
     </Filter>
     <Filter Include="addons\ofxJSON\libs\jsoncpp\src">
       <UniqueIdentifier>{ddb29b6c-d691-49a0-8e29-e25244bd08e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui">
+      <UniqueIdentifier>{98ade433-7b63-4b6b-aab4-8572d8919330}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src">
+      <UniqueIdentifier>{0d8b59a5-436d-4800-91ac-b82d7317fa2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src\components">
+      <UniqueIdentifier>{00cd2fac-525a-4b12-b63c-a64842abdaad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src\core">
+      <UniqueIdentifier>{19a5fb41-3e97-4b0b-8a55-c43c7fdde297}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src\libs">
+      <UniqueIdentifier>{54c0ee71-2de1-4063-953c-ef63e8202b10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src\libs\ofxSmartFont">
+      <UniqueIdentifier>{1956484a-11c8-40c6-8367-0ffab16068ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src\themes">
+      <UniqueIdentifier>{6dda6701-9111-4acf-a721-f5766b02ff95}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -148,6 +148,24 @@
     </ClInclude>
     <ClInclude Include="..\..\..\addons\ofxSvg\libs\svgTiny\src\svgtiny_internal.h">
       <Filter>addons\ofxSvg\libs\svgTiny\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxJSON\src\ofxJSON.h">
+      <Filter>addons\ofxJSON\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxJSON\src\ofxJSONElement.h">
+      <Filter>addons\ofxJSON\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxJSON\libs\jsoncpp\include\json\json-forwards.h">
+      <Filter>addons\ofxJSON\libs\jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxJSON\libs\jsoncpp\include\json\json.h">
+      <Filter>addons\ofxJSON\libs\jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="src\jsonReader.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\flag.h">
+      <Filter>src</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\addons\ofxDatGui\src\ofxDatGui.h">
       <Filter>addons\ofxDatGui\src</Filter>
@@ -211,24 +229,6 @@
     </ClInclude>
     <ClInclude Include="..\..\..\addons\ofxDatGui\src\themes\ofxDatGuiThemes.h">
       <Filter>addons\ofxDatGui\src\themes</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\addons\ofxJSON\src\ofxJSON.h">
-      <Filter>addons\ofxJSON\src</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\addons\ofxJSON\src\ofxJSONElement.h">
-      <Filter>addons\ofxJSON\src</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\addons\ofxJSON\libs\jsoncpp\include\json\json-forwards.h">
-      <Filter>addons\ofxJSON\libs\jsoncpp\include\json</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\addons\ofxJSON\libs\jsoncpp\include\json\json.h">
-      <Filter>addons\ofxJSON\libs\jsoncpp\include\json</Filter>
-    </ClInclude>
-    <ClInclude Include="src\jsonReader.h">
-      <Filter>src</Filter>
-    </ClInclude>
-    <ClInclude Include="src\flag.h">
-      <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

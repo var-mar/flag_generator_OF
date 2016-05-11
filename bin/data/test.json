@@ -69,7 +69,8 @@
 				"strokeColor" : 8421504,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"ae" : 
@@ -105,7 +106,8 @@
 				"strokeColor" : 8421504,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"af" : 
@@ -141,7 +143,8 @@
 				"strokeColor" : 8421504,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"ag" : 
@@ -177,7 +180,8 @@
 				"strokeColor" : 14811136,
 				"strokeWeight" : 0,
 				"type" : 1
-			}
+			},
+			null
 		]
 	},
 	"ai" : 
@@ -213,7 +217,8 @@
 				"strokeColor" : 14811136,
 				"strokeWeight" : 0,
 				"type" : 1
-			}
+			},
+			null
 		]
 	},
 	"al" : 
@@ -249,7 +254,8 @@
 				"strokeColor" : 14811136,
 				"strokeWeight" : 0,
 				"type" : 1
-			}
+			},
+			null
 		]
 	},
 	"am" : 
@@ -285,7 +291,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"ar" : 
@@ -321,7 +328,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"at" : 
@@ -357,7 +365,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"au" : 
@@ -393,7 +402,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"az" : 
@@ -429,7 +439,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"ba" : 
@@ -465,7 +476,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"bb" : 
@@ -501,7 +513,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"bd" : 
@@ -537,7 +550,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"be" : 
@@ -573,7 +587,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"bf" : 
@@ -609,7 +624,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"bg" : 
@@ -645,7 +661,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"bh" : 
@@ -681,7 +698,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"bi" : 
@@ -699,24 +717,35 @@
 			
 			{
 				"angle" : 30,
-				"center" : [ 22.0689697265625, 240 ],
+				"center" : [ 22, 240 ],
 				"colors" : [ 52992 ],
 				"height" : 0,
 				"scale" : 340,
 				"strokeColor" : 16777215,
-				"strokeWeight" : 100,
+				"strokeWeight" : 160,
 				"type" : 1
 			},
 			
 			{
 				"angle" : 330,
-				"center" : [ 608.472900390625, 240 ],
+				"center" : [ 608, 240 ],
 				"colors" : [ 52992 ],
 				"height" : 0,
 				"scale" : 340,
 				"strokeColor" : 16777215,
-				"strokeWeight" : 100,
+				"strokeWeight" : 160,
 				"type" : 1
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
 			}
 		]
 	},
@@ -753,7 +782,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"bn" : 
@@ -789,7 +819,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"bo" : 
@@ -825,7 +856,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"br" : 
@@ -897,7 +929,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"bt" : 
@@ -933,7 +966,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"bw" : 
@@ -969,7 +1003,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"by" : 
@@ -1005,7 +1040,8 @@
 				"strokeColor" : 0,
 				"strokeWeight" : 0,
 				"type" : 0
-			}
+			},
+			null
 		]
 	},
 	"bz" : 
@@ -1020,6 +1056,2553 @@
 		},
 		"layer" : 
 		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"ca" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 12519984, 16777215, 12519984 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 25, 50, 25 ],
+			"type" : 1
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"cd" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 32767 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 55.38000106811523,
+				"center" : [ 315.2709350585938, 240 ],
+				"colors" : [ 13504545 ],
+				"height" : 811.1900024414063,
+				"scale" : 120.8399963378906,
+				"strokeColor" : 16242200,
+				"strokeWeight" : 13,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"cf" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 255, 16777215, 39424, 16776960 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 25, 25, 25, 25 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 324.7290649414063, 240 ],
+				"colors" : [ 16711680 ],
+				"height" : 657.3400268554688,
+				"scale" : 125.3099975585938,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"cg" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 16711680, 51712 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 50, 50 ],
+			"type" : 3
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 47.83000183105469,
+				"center" : [ 324.7290649414063, 240 ],
+				"colors" : [ 16776960 ],
+				"height" : 720.280029296875,
+				"scale" : 156.6399993896484,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"ch" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 13970206 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 324.7290649414063, 240 ],
+				"colors" : [ 16777215 ],
+				"height" : 209.7899932861328,
+				"scale" : 93.98999786376953,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 3
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"ci" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 16751104, 16777215, 52480 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 1
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"cl" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 16777215, 13970206 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 50, 50 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 14758 ],
+				"height" : 0,
+				"scale" : 480,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"cm" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 31326, 13504806, 16568598 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 1
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"cn" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 14559504 ],
+			"strokeColor" : 12303291,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"co" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 16771072, 5262, 14286864 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 50, 25, 25 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"cr" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 180, 16777215, 14221312, 16777215, 180 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 15, 15, 40, 15, 15 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"cu" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 20720, 16777215, 20720, 16777215, 20720 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 20, 20, 20, 20, 20 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 30,
+				"center" : [ 59.9014892578125, 240 ],
+				"colors" : [ 15532032 ],
+				"height" : 0,
+				"scale" : 344.6199951171875,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 1
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"cv" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 530547 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 90,
+				"center" : [ 277.4384765625, 332.3077392578125 ],
+				"colors" : [ 14563625 ],
+				"height" : 755.239990234375,
+				"scale" : 111.8899993896484,
+				"strokeColor" : 16777215,
+				"strokeWeight" : 34,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"cy" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 16777215 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"cz" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 16777215, 15204352 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 50, 50 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 270,
+				"center" : [ 116.6502075195313, 240 ],
+				"colors" : [ 111 ],
+				"height" : -82.51999664306641,
+				"scale" : 295.3800048828125,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 1
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"de" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 0, 16711680, 16763904 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"dj" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 6724095, 52224 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 50, 50 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 270,
+				"center" : [ 107.192138671875, 240 ],
+				"colors" : [ 16776958 ],
+				"height" : -116.0800018310547,
+				"scale" : 322.239990234375,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 1
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"dk" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 12979248 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 192.3153076171875, 240 ],
+				"colors" : [ 16777215 ],
+				"height" : 815.3800048828125,
+				"scale" : 85.02999877929688,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 3
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			null
+		]
+	},
+	"dm" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 1084416 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 374.477783203125, 289.6923217773438 ],
+				"colors" : [ 16777215 ],
+				"height" : 1000,
+				"scale" : 50,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 3
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 324.7290649414063, 240 ],
+				"colors" : [ 0 ],
+				"height" : 731.469970703125,
+				"scale" : 50,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 3
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 275.0640258789063, 190.1538696289063 ],
+				"colors" : [ 16766464 ],
+				"height" : 1000,
+				"scale" : 50,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 3
+			}
+		]
+	},
+	"do" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 14035224 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 126, 36 ],
+				"colors" : [ 12700 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 213,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 513, 443 ],
+				"colors" : [ 12700 ],
+				"height" : 0,
+				"scale" : 460,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 315, 240 ],
+				"colors" : [ 16777215 ],
+				"height" : 588,
+				"scale" : 102.9400024414063,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 3
+			}
+		]
+	},
+	"dz" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 25139, 16777215 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 50, 50 ],
+			"type" : 1
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"ec" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 16771072, 5262, 14286864 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 50, 25, 25 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"ee" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 1217023, 0, 16777215 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"eg" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 13504806, 16777215, 0 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"er" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 2334278, 11851764 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 50, 50 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 270,
+				"center" : [ 78.81768798828125, 241.4616088867188 ],
+				"colors" : [ 12451879 ],
+				"height" : 261.5400085449219,
+				"scale" : 299.8599853515625,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 1
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"es" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 12978974, 16761856 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 25, 50, 25 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"et" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 2722824, 16762401, 15671576 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"fi" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 16777215 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 209.7733764648438, 240 ],
+				"colors" : [ 25306 ],
+				"height" : 916.0800170898438,
+				"scale" : 110,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 3
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"fj" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 6795775 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"fm" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 6789078 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"fr" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 9855, 16777215, 15931440 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 1
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"ga" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 3580160, 16770816, 28092 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"gb" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 102 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 45,
+				"center" : [ 324.7290649414063, 240 ],
+				"colors" : [ 13369344 ],
+				"height" : 781.8200073242188,
+				"scale" : 102.9400024414063,
+				"strokeColor" : 16777215,
+				"strokeWeight" : 24,
+				"type" : 3
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 324.2709350585938, 240 ],
+				"colors" : [ 13369344 ],
+				"height" : 882.52001953125,
+				"scale" : 138.7400054931641,
+				"strokeColor" : 16777215,
+				"strokeWeight" : 118,
+				"type" : 3
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"gd" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 16711680 ],
+			"strokeColor" : 16711680,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 90,
+				"center" : [ 323.8128051757813, 245 ],
+				"colors" : [ 16763392 ],
+				"height" : 50,
+				"scale" : 317.760009765625,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 270,
+				"center" : [ 231.187255859375, 244.4616088867188 ],
+				"colors" : [ 39424 ],
+				"height" : -90.91000366210938,
+				"scale" : 183,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 1
+			},
+			
+			{
+				"angle" : 90,
+				"center" : [ 416.852294921875, 245.5384521484375 ],
+				"colors" : [ 39424 ],
+				"height" : -90,
+				"scale" : 183,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 1
+			}
+		]
+	},
+	"ge" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 16777215 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 324.7290649414063, 240 ],
+				"colors" : [ 16711680 ],
+				"height" : 597.2000122070313,
+				"scale" : 67.12999725341797,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 3
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"gh" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 13504806, 16568598, 27455 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"gm" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 16711680, 16777215, 153, 16777215, 39168 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 30, 5, 30, 5, 30 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"gn" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 16711680, 16776960, 39168 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 1
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"gq" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 4102656, 16777215, 14885144 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 270,
+				"center" : [ 86, 240 ],
+				"colors" : [ 5597156 ],
+				"height" : -200,
+				"scale" : 380,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 1
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"gr" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 876207, 16777215 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 11, 11, 11, 12, 11, 11, 11, 11, 11 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 134, 134 ],
+				"colors" : [ 876207 ],
+				"height" : 0,
+				"scale" : 268,
+				"strokeColor" : 16777215,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 133, 134 ],
+				"colors" : [ 15791610 ],
+				"height" : 224,
+				"scale" : 44,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 3
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"gt" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 4822992, 16777215, 4822992 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 1
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"gw" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 16774174, 2062408 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 50, 50 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 123.1083374023438, 166.1538696289063 ],
+				"colors" : [ 15204358 ],
+				"height" : 857.3400268554688,
+				"scale" : 250.6300048828125,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"gy" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 3773448 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 270,
+				"center" : [ 107.8176879882813, 240 ],
+				"colors" : [ 16768520 ],
+				"height" : 236.3600006103516,
+				"scale" : 281.9599914550781,
+				"strokeColor" : 16777215,
+				"strokeWeight" : 34,
+				"type" : 1
+			},
+			
+			{
+				"angle" : 270,
+				"center" : [ 115.8176879882813, 241.4616088867188 ],
+				"colors" : [ 14557456 ],
+				"height" : -116.0800018310547,
+				"scale" : 308.8099975585938,
+				"strokeColor" : 0,
+				"strokeWeight" : 31,
+				"type" : 1
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"hn" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 29647, 16777215 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"hr" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 16711680, 16777215, 1513366 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"ht" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 8351, 13766708 ],
+			"strokeColor" : 9934743,
+			"strokeWeight" : 0,
+			"symmetry" : [ 50, 50 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"hu" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 13907222, 16777215, 3706112 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"id" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 15138833, 16777215 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 50, 50 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"ie" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 39497, 16777215, 16742656 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 1
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"il" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 16777215, 204 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 12, 13, 50, 13, 12 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"in" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 16750899, 16777215, 1214471 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"iq" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 13504806, 16777215, 0 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"ir" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 2334528, 16777215, 14286848 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"is" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 14487 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 192.3153076171875, 240 ],
+				"colors" : [ 14100520 ],
+				"height" : 1000,
+				"scale" : 93.98999786376953,
+				"strokeColor" : 16777215,
+				"strokeWeight" : 20,
+				"type" : 3
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"it" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 22272, 16777215, 16515072 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 1
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"jm" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 39168 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 270,
+				"center" : [ 50.443359375, 240 ],
+				"colors" : [ 0 ],
+				"height" : -48.95000076293945,
+				"scale" : 371.4700012207031,
+				"strokeColor" : 16763904,
+				"strokeWeight" : 132,
+				"type" : 1
+			},
+			
+			{
+				"angle" : 90,
+				"center" : [ 551.72412109375, 240 ],
+				"colors" : [ 0 ],
+				"height" : -90.91000366210938,
+				"scale" : 358.0400085449219,
+				"strokeColor" : 16763904,
+				"strokeWeight" : 160,
+				"type" : 1
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"jo" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 0, 16777215, 39168 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 33, 34, 33 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 270,
+				"center" : [ 50.27587890625, 239 ],
+				"colors" : [ 16711680 ],
+				"height" : 0,
+				"scale" : 358.0400085449219,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 1
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			},
+			
+			{
+				"angle" : 0,
+				"center" : [ 0, 0 ],
+				"colors" : [ 0 ],
+				"height" : 0,
+				"scale" : 0,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 0
+			}
+		]
+	},
+	"jp" : 
+	{
+		"background" : 
+		{
+			"colors" : [ 16777215 ],
+			"strokeColor" : 0,
+			"strokeWeight" : 0,
+			"symmetry" : [ 100 ],
+			"type" : 0
+		},
+		"layer" : 
+		[
+			
+			{
+				"angle" : 0,
+				"center" : [ 324.7290649414063, 240 ],
+				"colors" : [ 13828096 ],
+				"height" : 0,
+				"scale" : 299.8599853515625,
+				"strokeColor" : 0,
+				"strokeWeight" : 0,
+				"type" : 2
+			},
 			
 			{
 				"angle" : 0,

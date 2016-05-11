@@ -20,9 +20,13 @@ public:
 	string getCountry();
 
 private:
+	void setupGui();
+	void onButtonEvent(ofxDatGuiButtonEvent e);
+
 	flagBackground* background;
 	vector<flagLayer*> layers;
 	ofxSVG motif;
+	bool drawMotif = true;
 	ofxDatGui* gui;
 	ofFbo canvas;
 	string country;
