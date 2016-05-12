@@ -65,9 +65,5 @@
      fill-rule="evenodd"
      clip-path="url(#clipPath4229)"
      transform="matrix(.93750 0 0 .93750 0 -.00002048)"
-     stroke-width="1pt">
-    <path
-       id="path565"
-       d="m0 0.000022575v512l255.45-170.7 0.55-170.77-256-170.53z" />
-  </g>
+     stroke-width="1pt" />
 </svg>

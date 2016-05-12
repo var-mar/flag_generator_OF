@@ -63,22 +63,6 @@
   <g
      id="flag"
      clip-path="url(#clipPath3037)">
-    <rect
-       id="rect2996"
-       height="480"
-       width="640"
-       y="0"
-       x="0"
-       fill="#fff" />
-    <rect
-       id="rect555"
-       fill-rule="evenodd"
-       height="480"
-       width="477.19"
-       y="1.5939e-7"
-       x="92.462"
-       stroke-width="1pt"
-       fill="#fff" />
     <path
        id="path205"
        d="m214.8 177.65-41.959-29.326-41.754 29.614 15.529-48.124-41.677-29.716 51.562-0.4143 15.993-47.978 16.335 47.867 51.562 0.06322-41.463 29.996 15.872 48.017z"

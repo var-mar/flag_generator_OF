@@ -50,17 +50,5 @@
   </metadata>
   <g
      id="flag"
-     fill-rule="evenodd">
-    <path
-       id="path615"
-       d="m318.9 41.991 162.66 395.3-322.6 0.91 159.94-396.21z"
-       fill="#fff" />
-    <path
-       id="path617"
-       d="m319.09 96.516 140.67 339.99-278.99 0.78 138.32-340.77z" />
-    <path
-       id="path616"
-       d="m318.9 240.1 162.66 197.64-322.6 0.46 159.94-198.1z"
-       fill="#ffce00" />
-  </g>
+     fill-rule="evenodd" />
 </svg>

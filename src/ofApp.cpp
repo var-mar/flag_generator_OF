@@ -37,7 +37,9 @@ void ofApp::keyPressed(int key){
 
 //--------------------------------------------------------------
 void ofApp::keyReleased(int key){
-
+	if (key == OF_KEY_RETURN) {
+		lastHittedElement = "";
+	}
 }
 
 //--------------------------------------------------------------

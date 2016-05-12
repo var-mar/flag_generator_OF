@@ -92,10 +92,10 @@ void flagObject::onColorPickerEvent(ofxDatGuiColorPickerEvent e)
 		strokeColor = e.color;
 	}
 	else {
-		int colorIndex = ofToInt(e.target->getLabel());
-		if (colorIndex >= 0 && colorIndex < colors.size()) {
-			colors[colorIndex] = e.color;
-		}
+			int colorIndex = ofStringTimesInString(e.target->getLabel(), "LY") > 0 ? ofToInt(ofSplitString(e.target->getLabel(), "-")[2]) : ofToInt(ofSplitString(e.target->getLabel(), "-")[1]);
+			if (colorIndex >= 0 && colorIndex < colors.size()) {
+				colors[colorIndex] = e.color;
+			}
 	}
 }
 
