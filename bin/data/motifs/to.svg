@@ -36,7 +36,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="flag" />
+     inkscape:current-layer="svg656" />
   <metadata
      id="metadata4096">
     <rdf:RDF>
@@ -51,35 +51,5 @@
   <g
      id="flag"
      fill-rule="evenodd"
-     stroke-width="1pt">
-    <g
-       id="g7004"
-       transform="scale(.77831)">
-      <rect
-         id="rect671"
-         height="257.38"
-         width="321.15"
-         y="-4.7682e-7"
-         x="0"
-         fill="#fff" />
-      <g
-         id="g668"
-         transform="matrix(1.0321 0 0 1.0321 0 .000061451)"
-         fill="#c10000">
-        <rect
-           id="rect666"
-           height="173.71"
-           width="49.595"
-           y="38.89"
-           x="128.04" />
-        <rect
-           id="rect667"
-           transform="matrix(0 1 -1 0 278.59 -27.098)"
-           height="173.71"
-           width="49.595"
-           y="38.89"
-           x="128.04" />
-      </g>
-    </g>
-  </g>
+     stroke-width="1pt" />
 </svg>

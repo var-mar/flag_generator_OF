@@ -32,11 +32,11 @@
      showgrid="false"
      inkscape:zoom="0.49166667"
      inkscape:cx="320"
-     inkscape:cy="240"
+     inkscape:cy="321.35593"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="flag" />
+     inkscape:current-layer="g3186" />
   <metadata
      id="metadata4074">
     <rdf:RDF>
@@ -110,14 +110,6 @@
     <g
        id="g3186"
        transform="matrix(1.0321 0 0 1.0321 0 .0000023113)">
-      <rect
-         id="rect1002"
-         height="496.06"
-         width="159.45"
-         y="-0.000007"
-         x="46.063"
-         stroke-width="1pt"
-         fill="#980000" />
       <g
          id="g1201"
          transform="matrix(0.375 0 0 0.5 -54.257 -146.16)"
